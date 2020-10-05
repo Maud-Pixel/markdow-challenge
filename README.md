@@ -45,4 +45,4 @@ TL;DR (even smaller header, under funny story)
 
 
 
-<< previous || Maud || next >>
+<< [Magali](https://github.com/MagaliGarot/markdown-challenge) || Maud ||[Olivier](https://github.com/OlivierCharlier/markdown-challengenext)  >>
